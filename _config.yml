@@ -61,7 +61,7 @@ typeoutTextValues: '"", "Hanoi", "Vietnam", "HCM", "Da nang"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/gdgdevfest2015", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://bit.ly/gdgdevfest2015", text: "Registration"}
 
 # About Block
 aboutTitle: "About GDG DevFest"

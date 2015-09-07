@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2014-07-21 09:00:00
+date:   2015-09-8 09:00:00
 isStaticPost: false
 ---
-GDG DevFest Ukraine 2014 will be held 24-25th of October in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.
+GDG DevFest Vietnam 2015 will be held 27th Sep to 10 th October in 3 cities of Vietnam: Hanoi, Da Nang, Ho Chi Minh City If you want to be part of this great event as a speaker you knocked at the good door.
 
 #### Presenters – who should speak at the DevFest Conference?
 
@@ -20,7 +20,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 
 ##### Android
 
-__Google I/O 2014__
+__Google I/O 2015__
 
 * Material Design
 * Migration to ART
@@ -57,7 +57,7 @@ __General__
 
 
 #### Please submit your proposals [here](http://bit.ly/dfua-c4p).
-__Deadline__ is September 1, 2014
+__Deadline__ is September 15, 2015
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
 
