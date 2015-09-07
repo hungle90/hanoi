@@ -1,30 +1,3 @@
-<<<<<<< HEAD
-- 
-  group: "General sponsor"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Ha Noi", description: "GDG Hanoi - Open and volunteer geek community", link: "http://gdghanoi.org", imageUrl: "gdg-hanoi.svg"}
-    - {name: "GDG Da Nang", description: "GDG Hanoi - Open and volunteer geek community", link: "http://gdghanoi.org", imageUrl: "gdg-danang.svg"}
-    - {name: "GDG Viet Nam", description: "GDG Hanoi - Open and volunteer geek community", link: "http://gdghanoi.org", imageUrl: "gdg-vietnam.svg"}
-
-- 
-  group: "With support of"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-    - {name: "GDG Lviv", description: "GDG Hanoi - Open and volunteer geek community", link: "http://gdghanoi.org", imageUrl: "gdg-hanoi.svg", width: "120px"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
-- 
-  group: "Information partners"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Hanoi", description: "GDG Hanoi - Open and volunteer geek community", link: "http://gdghanoi.org", imageUrl: "gdg-hanoi.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Da Nang", description: "GDG Danang - Open and volunteer geek community", link: "", imageUrl: "gdg-danang.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Viet Nam", description: "GDG Vietnam- Open and volunteer geek community", link: "http://gdgvietnma.org", imageUrl: "gdg-vietnam.svg"}
-=======
 - 
   group: "General sponsor"
   elements: 
@@ -47,5 +20,4 @@
     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
     - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
->>>>>>> gh-page
     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
