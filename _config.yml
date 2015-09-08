@@ -50,9 +50,9 @@ navigationLinks:
 
 
 bottomNavigationLinks:
- - {link: "https://bit.ly/gdgdevfestspeaker", text: "Become a speaker"}
+ - {link: "https://bit.ly/gdgdevfest2015", text: "Đăng ký tại đây"}
 rightNavigationButtons:
- - {link: "https://bit.ly/gdgdevfestspeaker", text: "Become a speaker"}
+ - {link: "https://bit.ly/gdgdevfest2015", text: "Đăng ký tại đây"}
 
 # Hero Block
 heroImage: "hero.jpg"
