@@ -66,10 +66,11 @@ heroButtons:
 
 # About Block
 aboutTitle: "About GDG DevFest"
+text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!"
 aboutBlock:
- - {title: "Hanoi", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Da Nang", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Ho Chi Minh", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!",title: "Hanoi", image: "conference.jpg", text: "" }
+ - {title: "Da Nang", image: "workshop.jpg", text: "" }
+ - {title: "Ho Chi Minh", image: "hackathon.jpg", text: "" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
