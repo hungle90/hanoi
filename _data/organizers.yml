@@ -7,6 +7,6 @@
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "VTC Academy", description: "Hoc vien dao tao VTC", link: "http://vtcacademy.edu.vn", imageUrl: "gdg-kyiv.svg"}
-    - {name: "RMIT University", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "SaiGon Hotel", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "VTC Academy", description: "Hoc vien dao tao VTC", link: "http://vtcacademy.edu.vn", imageUrl: "vtc.svg"}
+    - {name: "RMIT University", description: "GDG Cherkassy - Open and volunteer geek community", link: "", imageUrl: "rmit.svg"}
+   
