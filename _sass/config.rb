@@ -9,7 +9,7 @@ on_stylesheet_saved do |file|
   end
 end
 
-http_path = "" 
+http_path = "/" 
 sass_dir = "/" 
 css_dir = "./css" 
 images_dir = "./img" 
