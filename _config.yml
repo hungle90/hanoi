@@ -69,9 +69,9 @@ heroButtons:
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! " }
+ - {title: "Workshops", image: "workshop.jpg", text: "Workshops, hands-on experience, hacking and debugging with IOT device. " }
+ - {title: "CodeLabs", image: "hackathon.jpg", text: "Freestyle CodeLabs! Come and tame your favourite technology!Awesome speakers and lots of fun!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -79,7 +79,7 @@ statisticBlock:
  - {count: "1500", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
  - {count: "25", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "9", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "3", specialCharacter: "", info: "cities", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
