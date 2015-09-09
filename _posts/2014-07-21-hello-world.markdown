@@ -7,7 +7,7 @@ isStaticPost: false
 
 We're very excited - not just because of the inordinate amount of caffeine based products consumed - 
 but also because our team are putting together 
-the final missing parts to the biggest Google related event in Ukraine - [GDG DevFest 2015](http://devfest.vn/). 
+the final missing parts to the biggest Google related event in Vietnam - [GDG DevFest 2015](http://devfest.vn/). 
 
 This year event will take place in 3 cities of Vietnam: Hanoi, Danang, Ho Chi Minh. Being a unique Asian city in Vietnam: Hanoi, Danang, Ho Chi Minh City is among top 50 cities of the Asia to visit in 2014 according to the travel group “The Rough Guide” and is among top 10 cities for spending weekends in Asia according to Lonely Planet. So take your time to spend weeked in last hidden gem in the Asia in company of experts and technical geeks.
 
