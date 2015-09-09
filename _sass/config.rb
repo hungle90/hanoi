@@ -10,10 +10,10 @@ on_stylesheet_saved do |file|
 end
 
 http_path = "/" 
-sass_dir = "/" 
-css_dir = "./css" 
-images_dir = "./img" 
-javascripts_dir = "./js" 
+sass_dir = "./" 
+css_dir = "../css" 
+images_dir = "../img" 
+javascripts_dir = "../js" 
 
 line_comments = false
 relative_assets = true 
