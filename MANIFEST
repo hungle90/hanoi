@@ -1,0 +1,16 @@
+This zip file contains optimized resources for http://devfest.vn/. The optimized resources are listed below in the format of: 
+filename: url
+
+Note: We only include up to 10 MB of optimized contents. If the
+optimized contents of your page are larger than 10 MB, we list them in
+this file too, with 'NOT INCLUDED' to indicate those URLs require
+further optimization.
+
+css/main.css: http://devfest.vn/css/main.css
+js/bootstrap.min.js: http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js
+js/default.js: http://devfest.vn/js/default.js
+js/scripts.min.js: http://devfest.vn/js/scripts.min.js
+image/conference.jpg: http://devfest.vn/img/about-section/conference.jpg
+image/hackathon.jpg: http://devfest.vn/img/about-section/hackathon.jpg
+image/ValentynShybanov.jpg: http://devfest.vn/img/people/ValentynShybanov.jpg
+image/ngoquanglong.jpg: http://devfest.vn/img/people/ngoquanglong.jpg
