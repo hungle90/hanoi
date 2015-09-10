@@ -1,0 +1,7 @@
+{
+	"remoteServer": "user@server",
+	"remotePath": "/path/to/your/public/html/directory/",
+	"cloudflareToken": "b93f613a53d1d8a714e4e12c7c84956137713",
+	"cloudflareEmail": "gdghanoi@gmail.com",
+	"cloudflareDomain": "devfest.vn"
+}
