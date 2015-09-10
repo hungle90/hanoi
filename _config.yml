@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Season 2015"
-email: "devfest@gdghanoi.org"
+email: "contact@devfest.vn"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: ""
 url: "http://devfest.vn"
@@ -225,7 +225,7 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Viet Nam"
 directionDetailsCards:
- - {title: "Ha Noi", information: 'VTC Academy, The 4th Floor, No3th Tam Trinh, Hoang Mai, Hanoi/.'}
+ - {title: "Ha Noi", information: 'VTC Academy, The 4th Floor, No3th Tam Trinh, Hoang Mai, Hanoi.'}
  - {title: "Da Nang", information: 'SaiGonTour Ane Hotel, No 5th, Dong Da st, Da Nang'}
  - {title: "Ho Chi Minh City", information: 'RMIT University, 702 Nguyen Van Linh st, Tan Phong, Ho Chi Minh'}
 # directionDetailsWideCards:
