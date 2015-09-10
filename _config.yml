@@ -94,7 +94,7 @@ rockstarSpeakersButtonText: "See all speakers"
 locationBlockTitle: "Location"
 eventLocationName: "VTC Academy"
 eventLocationLink: "http://devfest.vn"
-eventStreetAddress: "No 18th, Tam Trinh, Hoang Mai"
+eventStreetAddress: "VTC Online building, No 18th, Tam Trinh, Hoang Mai"
 eventAddressLocality: "Hanoi"
 eventAddressLocalityRegion: ""
 eventPostalCode: "100000"
@@ -225,7 +225,7 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Viet Nam"
 directionDetailsCards:
- - {title: "Ha Noi", information: 'VTC Academy, The 4th Floor, No3th Tam Trinh, Hoang Mai, Hanoi.'}
+ - {title: "Ha Noi", information: 'VTC Academy, The 4th Floor,VTC Online building, No 18th Tam Trinh, Hoang Mai, Hanoi.'}
  - {title: "Da Nang", information: 'SaiGonTour Ane Hotel, No 5th, Dong Da st, Da Nang'}
  - {title: "Ho Chi Minh City", information: 'RMIT University, 702 Nguyen Van Linh st, Tan Phong, Ho Chi Minh'}
 # directionDetailsWideCards:
