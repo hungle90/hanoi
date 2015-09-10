@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2015"
+title: "GDG DevFest Vietnam Season 2015"
 email: "contact@devfest.vn"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: ""
