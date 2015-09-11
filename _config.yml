@@ -2,7 +2,7 @@
 gems:
 - jekyll-sitemap
 safe: false
-
+keep_files: ["img"]
 # Build Settings
 markdown: kramdown
 permalink: pretty
@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://gdghanoi.org"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, gdg Hanoi, devfest VietNam, google, programming, android, chrome, developers, lviv"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -43,7 +43,6 @@ c4sponsorsUrl: "/assets/DevFest2015_SpeakerProposal-1.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Venue"}
