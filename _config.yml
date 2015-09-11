@@ -101,9 +101,9 @@ eventAddressCountry: "Vietnam"
 eventStartTime: "2015-09-27T13:30"
 eventDoorTime: "13:00"
 eventEndTime: "2015-09-25T17:00"
-eventPlaceCoordinates: "20.99545, 105.86356"
-mapCenterCoordinates: "20.99545, 105.86356"
-mapMobileCenterCoordinates: "20.99545, 105.86356"
+eventPlaceCoordinates: "20.99540, 105.86202"
+mapCenterCoordinates: "20.99540, 105.86202"
+mapMobileCenterCoordinates: "20.99540, 105.86202"
 
 # Venue Block
 venueBlockTitle: "Venue"
