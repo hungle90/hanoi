@@ -27,9 +27,33 @@
   name: "Nguyen Quang"
   surname: "Trung"
   company: "Verv Mobi"
+  title: "Deputy GM - Developer Alliances "
+  bio: "Gaby is "
+  thumbnailUrl: nguyenquangtrung.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+    - {name: "twitter", link: "https://twitter.com/mherych"}
+- 
+  id: 6
+  name: "Gaby"
+  surname: "Hien"
+  company: "Verv Mobi"
   title: "Software Engineer"
   bio: "Trung is an Software Engineer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
   thumbnailUrl: nguyenquangtrung.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+    - {name: "twitter", link: "https://twitter.com/mherych"}
+- 
+  id: 7
+  name: "Ngo Van"
+  surname: "Luyen"
+  company: "Divmob"
+  title: "CEO"
+  bio: "Luyen is CEO of Divmob "
+  thumbnailUrl: ngovanluyen.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
