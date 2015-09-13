@@ -61,7 +61,7 @@ typeoutTextValues: '"", "Hanoi", "Da Nang", "Ho Chi Minh", "Viet Nam"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/gdgdevfest2015", text: "   Ha Noi  "}
- - {link: "https://bit.ly/gdgdevfest2015", text: "  Da Nang  "}
+ - {link: "https://bit.ly/gdgdevfestmientrung2015", text: "  Da Nang  "}
  - {link: "https://bit.ly/gdgdevfest2015", text: "Ho Chi Minh"}
 
 

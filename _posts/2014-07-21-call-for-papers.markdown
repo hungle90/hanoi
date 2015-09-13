@@ -64,4 +64,4 @@ __Please note:__ There is no guarantee that a submission will be put onto the co
 The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2015.<br/>
 
 #### Any questions? 
-Email organizers at [info@devfest.vn](mailto:info@devfest.vn)
+Email organizers at [contact@devfest.vn](mailto:contact@devfest.vn)
