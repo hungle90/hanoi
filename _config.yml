@@ -90,7 +90,7 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
+locationBlockTitle: "Hanoi"
 eventLocationName: "VTC Academy"
 eventLocationLink: "http://devfest.vn"
 eventStreetAddress: "VTC Online building, No 18th, Tam Trinh, Hoang Mai"
@@ -104,7 +104,36 @@ eventEndTime: "2015-09-25T17:00"
 eventPlaceCoordinates: "20.99540, 105.86202"
 mapCenterCoordinates: "20.99540, 105.86202"
 mapMobileCenterCoordinates: "20.99540, 105.86202"
-
+# # Location Block
+# locationBlockTitle: "Danang"
+# eventLocationName: "VTC Academy"
+# eventLocationLink: "http://devfest.vn"
+# eventStreetAddress: "VTC Online building, No 18th, Tam Trinh, Hoang Mai"
+# eventAddressLocality: "Danang"
+# eventAddressLocalityRegion: ""
+# eventPostalCode: "100000"
+# eventAddressCountry: "Vietnam"
+# eventStartTime: "2015-09-27T13:30"
+# eventDoorTime: "13:00"
+# eventEndTime: "2015-09-25T17:00"
+# eventPlaceCoordinates: "20.99540, 105.86202"
+# mapCenterCoordinates: "20.99540, 105.86202"
+# mapMobileCenterCoordinates: "20.99540, 105.86202"
+# # Location Block
+# locationBlockTitle: "Ho Chi Minh"
+# eventLocationName: "RMIT"
+# eventLocationLink: "http://devfest.vn"
+# eventStreetAddress: "VTC Online building, No 18th, Tam Trinh, Hoang Mai"
+# eventAddressLocality: "Ho Chi Minh"
+# eventAddressLocalityRegion: ""
+# eventPostalCode: "100000"
+# eventAddressCountry: "Vietnam"
+# eventStartTime: "2015-09-27T13:30"
+# eventDoorTime: "13:00"
+# eventEndTime: "2015-09-25T17:00"
+# eventPlaceCoordinates: "10.729502, 106.693618"
+# mapCenterCoordinates: "10.729502, 106.693618"
+# mapMobileCenterCoordinates: "10.729502, 106.693618"
 # Venue Block
 venueBlockTitle: "Venue"
 venueBigImage: "venue_0.jpg"
@@ -132,46 +161,49 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Registration"
+ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. All tickets are FREE for developers, desginers and start-ups"
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  name: "DevFest Hanoi"
+  price: "27/09/2015"
+  priceCurrency: ""
+  ticketsNumber: ""
+  additionalInfo: "VTC Academy, The 4th Floor,VTC Online building, No 18th Tam Trinh, Hoang Mai, Hanoi "
+  ribbon: ""
+  buyButtonLink: "https://bit.ly/gdgdevfest2015"
+  buyButtonText: "Registration"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  validFrom: "2015-09-02T10:00"
+  validThrough: "2015-09-27T23:59"
  -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
+  name: "DevFest Da Nang"
+  price: "10/2015"
+  priceCurrency: ""
+  ticketsNumber: "1"
+  ribbon: ""
+  additionalInfo: "SaiGonTour Ane Hotel, No 5th, Dong Da st, Da Nang"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonLink: "https://bit.ly/gdgdevfestmientrung2015"
+  buyButtonText: "Registration"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
+  validFrom: "2015-09-02T10:00"
+  validThrough: "2015-10-05T10:00"
+
  -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+
+  name: "DevFest Ho Chi Minh"
+  price: "10/2015"
+  priceCurrency: ""
+  ticketsNumber: ""
+  buyButtonLink: "https://bit.ly/gdgdevfesthcm2015"
+  buyButtonText: "Registration"
+  additionalInfo: "RMIT University, 702 Nguyen Van Linh st, Tan Phong, Ho Chi Minh"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  validFrom: "2015-09-02T10:00"
+  validThrough: "2015-10-05T23:59"
+ 
+  
 
 # Footer
 socialLinks:

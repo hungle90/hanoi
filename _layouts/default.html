@@ -143,6 +143,26 @@ layout: compress
     {% endif %}
 
     {% include schema-event.html %}
+
+<script type="text/javascript">
+    $(function(){
+        $(".mui-btn").click(function(){
+            $(".location-map").removeAttr("hidden");
+        });
+        $(".button_hanoi").click(function(){
+            $(".location-map").hide();
+            $(".hanoi").show();
+        });
+        $(".button_danang").click(function(){
+            $(".location-map").hide();
+            $(".da_nang").show();
+        });
+        $(".button_hcm").click(function(){
+            $(".location-map").hide();
+            $(".hochiminh").show();
+        });
+    });
+</script>
 </body>
 
 </html>

@@ -11,28 +11,73 @@
   service: true
 -
   id: 001
-  title: "Lead the future of gaming with VR - [HN]"
-  description: "This session will reveal the invisible structures behind the VR Technology"
+  title: "Overview of Gaming with VR(20’)"
+  description: "Overview of Gaming with VR(20’)"
   speakers: [3]
+  language: en
+  complexity: "Beginner"
+- id: 002
+  title: "VMAX Introduction(20')"
+  description: "Overview of Gaming with VR(20’)"
+  speakers: [5]
+  language: en
+  complexity: "Intermediate"
+
+
+-
+  id: 003
+  title: "How a big studio design an awsome game? -P1 "
+  description: "How a big studio design an awsome game?"
+  subtype: presentation
+  speakers: [4]
+  language: en
+  complexity: "Beginnerbeginner" 
+  presentation: ""
+  
+-
+  id: 004
+  title: "How a big studio design an awsome game? -P2"
+  description: "Experience shared by local game studios here."
+  speakers: [4]
+  language: en
+  complexity: "Beginner" 
+  presentation: ""
+
+-
+  id: 005
+  title: "Google Cardboard Unity CodeLab(25')"
+  description: "CodeLabs with Cardboard"
+  speakers: [3]
+  language: en
+  complexity: "Intermediate"
+- id: 006
+  title: "Demo & Instruct Mediation configuration with Admob & other Adnetworks (25’)"
+  description: "Admob"
+  speakers: [5]
   language: en
   complexity: "Intermediate"
 
 -
-  id: 002
-  title: "Analyze, Monetize & Promote - [HN] "
-  description: "Shared by Google speakers or Google's partners."
-  subtype: presentation
+  id: 007
+  title: "CSVR Game on VR"
+  description: " CSVR - Shooting Game Online(50')"
+  speakers: [3]
+  language: en
+  complexity: "Intermediate" 
+  presentation: ""
+
+-
+  id: 008
+  title: "Q&A and Lucky Draw(50')"
+  description: "Q&A and Lucky Draw(50')"
   speakers: [5]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  
--
-  id: 003
-  title: "Google Play Game Services - [HN]"
-  description: "Experience shared by local game studios here."
+  complexity: "Intermediate"
+- id: 009
+  title: "Q&A(50')"
+  description: "Game"
   speakers: [4]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
+  complexity: "Intermediate, Beginner"
+
+- 

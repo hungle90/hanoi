@@ -19,42 +19,42 @@
   thumbnailUrl: lenguyenminh.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
 - 
   id: 5
   name: "Nguyen Quang"
   surname: "Trung"
   company: "Verv Mobi"
   title: "Deputy GM - Developer Alliances "
-  bio: "Gaby is "
-  thumbnailUrl: nguyenquangtrung.jpg
+  bio: "Trung is an Developer Alliances of Verv Mobi in Vietnam "
+  thumbnailUrl:  nguyenquangtrung.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/100970963801338989759/"}
+    - {name: "twitter", link: ""}
 - 
   id: 6
   name: "Gaby"
   surname: "Hien"
   company: "Verv Mobi"
-  title: "Software Engineer"
-  bio: "Trung is an Software Engineer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: nguyenquangtrung.jpg
+  title: "Manager Developer Alliances"
+  bio: "Hien is an  Manager Developer Alliances of Verv Mobi SEA"
+  thumbnailUrl: gabyhien.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
 - 
   id: 7
   name: "Ngo Van"
   surname: "Luyen"
   company: "Divmob"
   title: "CEO"
-  bio: "Luyen is CEO of Divmob "
+  bio: "Luyen has worked in France for 5 years, then come back Vietnam and found DIVMOB in 2012s. Divmob has produced over ten games for both Android, and iOS. Their most successful are Ninja Revenge, Zombie Age 2 and Epic Heroes War, which garnered over three million downloads in the first month of release and were featured on Google Play Home Page in over 30 countries. Zombie Age 2 and Epic Heroes War are featured on Google Play Home page globally, Epic Heroes War was also featured on iTunes Home page as Best New Games. The company was founded in December 2011 and located in Ho Chi Minh City, Vietnam."
   thumbnailUrl: ngovanluyen.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
