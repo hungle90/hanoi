@@ -62,7 +62,7 @@ typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/gdgdevfest2015", text: "   Ha Noi  "}
  - {link: "https://bit.ly/gdgdevfestmientrung2015", text: "  Da Nang  "}
- - {link: "https://bit.ly/gdgdevfest2015", text: "Ho Chi Minh"}
+ - {link: "http://bit.ly/gdgdevfesthcm2015", text: "Ho Chi Minh"}
 
 
 # About Block
@@ -196,7 +196,7 @@ ticketsOffers:
   price: "10/2015"
   priceCurrency: ""
   ticketsNumber: ""
-  buyButtonLink: "https://bit.ly/gdgdevfesthcm2015"
+  buyButtonLink: "http://bit.ly/gdgdevfesthcm2015"
   buyButtonText: "Registration"
   additionalInfo: "RMIT University, 702 Nguyen Van Linh st, Tan Phong, Ho Chi Minh"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
