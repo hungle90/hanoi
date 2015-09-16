@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GDG DevFest Vietnam Season 2015"
 email: "contact@devfest.vn"
 description: "GDG DevFest Viet Nam will be held on 3 cities of Vietnam: Hanoi, Danang, Ho Chi Minh. Welcome to DevFest Vietnam season 2015"
-baseurl: "/img/seo/"
+baseurl: ""
 url: "http://devfest.vn"
 logo: "/img/seo/devfest.jpg"
 permalink: "/blog/:title"
