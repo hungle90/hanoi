@@ -181,7 +181,7 @@ ticketsOffers:
   name: "DevFest Da Nang"
   price: "10/2015"
   priceCurrency: ""
-  ticketsNumber: "1"
+  ticketsNumber: ""
   ribbon: ""
   additionalInfo: "SaiGonTour Ane Hotel, No 5th, Dong Da st, Da Nang"
   featured: true
