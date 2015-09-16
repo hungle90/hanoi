@@ -33,8 +33,8 @@ organizerLink: "http://gdghanoi.org"
 metaKeywords: "DevFest Hanoi 2015, Devfest Da nang 2015, devfest Ho Chi Minh2015, DevFest Vietnam 2015, Da Nang, Ho Chi Minh, VR, CardBoard, google, programming, android, chrome, developers-"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+# socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+# socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documentsi
 c4pUrl: "/assets/DevFest2015_SpeakerProposal-1.pdf"
