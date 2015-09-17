@@ -14,32 +14,32 @@
   title: "Overview of Gaming with VR(20’)"
   description: "Overview of Gaming with VR(20’)"
   speakers: [3]
-  language: en
+  language: vi
   complexity: "Beginner"
 - id: 002
   title: "VMAX Introduction(20')"
-  description: "Overview of Gaming with VR(20’)"
+  description: "VMAX Introduction(20')"
   speakers: [5]
-  language: en
+  language: vi
   complexity: "Intermediate"
 
 
 -
   id: 003
   title: "How a big studio design an awsome game? -P1 "
-  description: "How a big studio design an awsome game?"
+  description: ""
   subtype: presentation
   speakers: [4]
-  language: en
-  complexity: "Beginnerbeginner" 
+  language: vi
+  complexity: "Beginner" 
   presentation: ""
   
 -
   id: 004
   title: "How a big studio design an awsome game? -P2"
-  description: "Experience shared by local game studios here."
+  description: ""
   speakers: [4]
-  language: en
+  language: vi
   complexity: "Beginner" 
   presentation: ""
 
@@ -48,13 +48,13 @@
   title: "Google Cardboard Unity CodeLab(25')"
   description: "CodeLabs with Cardboard"
   speakers: [3]
-  language: en
+  language: vi
   complexity: "Intermediate"
 - id: 006
   title: "Demo & Instruct Mediation configuration with Admob & other Adnetworks (25’)"
   description: "Admob"
   speakers: [5]
-  language: en
+  language: vi
   complexity: "Intermediate"
 
 -
@@ -62,7 +62,7 @@
   title: "CSVR Game on VR"
   description: " CSVR - Shooting Game Online(50')"
   speakers: [3]
-  language: en
+  language: vi
   complexity: "Intermediate" 
   presentation: ""
 
@@ -71,13 +71,13 @@
   title: "Q&A and Lucky Draw(50')"
   description: "Q&A and Lucky Draw(50')"
   speakers: [5]
-  language: en
+  language: vi
   complexity: "Intermediate"
 - id: 009
   title: "Q&A(50')"
-  description: "Game"
+  description: ""
   speakers: [4]
-  language: en
+  language: vi
   complexity: "Intermediate, Beginner"
 
 - 
