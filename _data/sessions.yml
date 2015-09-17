@@ -46,8 +46,8 @@
 
 -
   id: 005
-  title: "Q&A and Lucky Draw(50')"
-  description: "Q&A and Lucky Draw(50')"
+  title: "Q&A and Lucky Draw"
+  description: ""
   speakers: [5]
   language: vi
   complexity: "Intermediate"
