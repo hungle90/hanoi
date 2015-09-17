@@ -2,19 +2,15 @@
   date: "2015-09-27"
   dateReadable: "Ha Noi - 27/09/2015"
   tracks: 
-    - {title: "Lead the future of gaming with VR", color: "#90be4e"}
-    - {title: "Monetization on your game", color: "#03a9f4"}
-    - {title: "Adventure of Game Maker", color: "#e91e63"}
+    - {title: "Room1", color: "#90be4e"}
+    - {title: "Room2", color: "#03a9f4"}
+    - {title: "Room3", color: "#e91e63"}
+    - {title: "Room4", color: "#FFFF00"}
   timeslots:
     - {
         startTime: "13:00",
-        endTime: "13:50",
-        sessionIds: [001, 002, 003]
-    }
-    - {
-        startTime: "13:50",
         endTime: "14:15",
-        sessionIds: [005, 006, 004]
+        sessionIds: [001, 002, 003, 007]
     }
     - {
         startTime: "14:15",
@@ -24,5 +20,5 @@
     - {
         startTime: "14:40",
         endTime: "15:30",
-        sessionIds: [007,008,009]
+        sessionIds: [004,005,006,008]
     }

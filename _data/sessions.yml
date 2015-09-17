@@ -11,14 +11,14 @@
   service: true
 -
   id: 001
-  title: "Overview of Gaming with VR(20’)"
-  description: "Overview of Gaming with VR(20’)"
+  title: "Lead the future of gaming with VR"
+  description: "Overview of Gaming with VR and Google Cardboard Unity CodeLab"
   speakers: [3]
   language: vi
   complexity: "Beginner"
 - id: 002
-  title: "VMAX Introduction(20')"
-  description: "VMAX Introduction(20')"
+  title: "Monetization on your game"
+  description: "VMAX Introduction and Demo & Instruct Mediation configuration with Admob & other Adnetworks (25’)"
   speakers: [5]
   language: vi
   complexity: "Intermediate"
@@ -26,39 +26,17 @@
 
 -
   id: 003
-  title: "How a big studio design an awsome game? -P1 "
-  description: ""
+  title: "Adventure of Game Maker - How the game is made?"
+  description: "How a big studio design an awsome game? "
   subtype: presentation
   speakers: [4]
   language: vi
   complexity: "Beginner" 
   presentation: ""
-  
--
+
+- 
+ 
   id: 004
-  title: "How a big studio design an awsome game? -P2"
-  description: ""
-  speakers: [4]
-  language: vi
-  complexity: "Beginner" 
-  presentation: ""
-
--
-  id: 005
-  title: "Google Cardboard Unity CodeLab(25')"
-  description: "CodeLabs with Cardboard"
-  speakers: [3]
-  language: vi
-  complexity: "Intermediate"
-- id: 006
-  title: "Demo & Instruct Mediation configuration with Admob & other Adnetworks (25’)"
-  description: ""
-  speakers: [5]
-  language: vi
-  complexity: "Intermediate"
-
--
-  id: 007
   title: "CSVR Game on VR"
   description: " CSVR - Shooting Game Online(50')"
   speakers: [3]
@@ -67,17 +45,28 @@
   presentation: ""
 
 -
-  id: 008
+  id: 005
   title: "Q&A and Lucky Draw(50')"
   description: "Q&A and Lucky Draw(50')"
   speakers: [5]
   language: vi
   complexity: "Intermediate"
-- id: 009
+- id: 006
   title: "Q&A(50')"
   description: ""
   speakers: [4]
   language: vi
   complexity: "Intermediate, Beginner"
+- id: 007
+  title: "Google BigQuery, how to understand players: Example cases"
+  description: ""
+  speakers: [8]
+  language: vi
+  complexity: "Intermediate, Beginner"
+- id: 008
+  title: ""
+  description: ""
+  speakers: []
+  language: vi
+  complexity: "Intermediate, Beginner"
 
-- 

@@ -58,3 +58,17 @@
   social: 
     - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
+
+- 
+  id: 8
+  name: "Nguyen Giang"
+  surname: "Son"
+  company: "Gimasys Co., Ltd."
+  title: "CTO"
+  bio: "Son has been the CTO of Gimasys for 5 years in which his main role is to be the R&D lead to study Google for Work technologies including Google Apps for Work, Chrome for Work, Google Search for Work, Google Maps for Work, Google Cloud Platform and Android for Work and make them accessible to everyone in the company as well as to any enterprise customer who is interested in these products and solutions. With Google Cloud Platfrom, Mr. Son is in charge of receiving technical courses from Google on solutions and deployments to be the first Google Cloud Platform Evangelist in Vietnam."
+  thumbnailUrl: nguyengiangson.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+
