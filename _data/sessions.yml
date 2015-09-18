@@ -1,14 +1,17 @@
 -
+  id: 000
+  title: "KeyNotes - Overview of Google Play Game Services and Game design best-practices(45')"
+  description: "Overview of Google Play Game Services and Game design best-practices(45')"
+  speakers: [5]
+  language: en
+  complexity: "Beginner"
+
+-
   id: 307
   title: "Coffee Break"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
 -
   id: 001
   title: "Lead the future of gaming with VR"
@@ -19,7 +22,7 @@
 - id: 002
   title: "Monetization on your game"
   description: "Mediation & configuration with Admob and other Ad Networks"
-  speakers: [5]
+  speakers: [7]
   language: vi
   complexity: "Intermediate"
 
@@ -48,7 +51,7 @@
   id: 005
   title: "Q&A and Lucky Draw"
   description: ""
-  speakers: [5]
+  speakers: [7]
   language: vi
   complexity: "Intermediate"
 - id: 006
@@ -60,7 +63,7 @@
 - id: 007
   title: "Google BigQuery, how to understand players: Example cases"
   description: ""
-  speakers: [8]
+  speakers: [6]
   language: vi
   complexity: "Intermediate, Beginner"
 - id: 008
