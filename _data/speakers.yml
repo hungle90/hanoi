@@ -33,7 +33,7 @@
   rockstar: true
   ribbon: 
     - {abbr: "Google", title: "Google Singapore", url: "https://www.google.com.sg/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+    - {abbr: "GDG", title: "Google Developers", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+SamiKizilbash/"}
     - {name: "twitter", link: "https://twitter.com/samikiz"}
