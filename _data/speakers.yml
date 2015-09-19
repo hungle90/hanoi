@@ -55,9 +55,9 @@
   name: "Nguyen Quang"
   surname: "Trung"
   company: "Vserv Mobi"
-  title: " Manager Developer Alliances"
-  bio: "Trung is a Manager Developer Alliances of Verv Mobi in Vietnam. Trung has 5 year of experience in making Mobile Apps Products, Mobile Marketing. He worked at Microsoft Vietnam and organized Windows and Windows Phone 's communities. He was also Keynote Speaker at Office 365 conference. "
-  thumbnailUrl:  nguyenquangtrung.jpg
+  title: " Manager of Developer Alliances"
+  bio: "Trung is a Manager of Developer Alliances of Vserv in Vietnam. Trung has 5 years of experience in making Mobile Apps Products, Mobile Marketing as well. He worked at Microsoft Vietnam and organized Windows and Windows Phone's communities. He was also key speaker of Microsoft Vietnam in the Office 365 conferences."
+  thumbnailUrl: nguyenquangtrung.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/100970963801338989759/"}
