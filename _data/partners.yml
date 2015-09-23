@@ -4,4 +4,7 @@
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
     - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "gdg.svg"}
     
-- 
+- group: "Media sponsor"
+  elements: 
+    - {name: "Moblead", description: "Moblead", link: "http://moblead.vn/", imageUrl: "moblead.svg"}
+    - {name: "Game4V", description: "Game4V", link: "http://game4v.com/", imageUrl: "game4v.svg"} 
