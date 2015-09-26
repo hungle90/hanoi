@@ -189,7 +189,7 @@ ticketsOffers:
   buyButtonText: "Registration"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2015-09-02T10:00"
-  validThrough: "2015-10-05T10:00"
+  validThrough: "2015-10-01T10:00"
 
  -
 
@@ -199,10 +199,10 @@ ticketsOffers:
   ticketsNumber: ""
   buyButtonLink: "http://bit.ly/gdgdevfesthcm2015"
   buyButtonText: "Registration"
-  additionalInfo: "RMIT University, 702 Nguyen Van Linh st, Tan Phong, Ho Chi Minh"
+  additionalInfo: "Hoa Sen University, No 8 Nguyen Van Trang st, The 1st District, Ho Chi Minh"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2015-09-02T10:00"
-  validThrough: "2015-10-05T23:59"
+  validThrough: "2015-10-04T23:59"
  
   
 
