@@ -8,5 +8,5 @@
   group: "Co-organizers"
   elements: 
     - {name: "VTC Academy", description: "Hoc vien dao tao VTC", link: "http://vtcacademy.edu.vn", imageUrl: "vtc.svg"}
-    - {name: "RMIT University", description: "RMIT University Vietnam", link: "", imageUrl: "rmit.svg"}
+    - {name: "HoaSen University", description: "HoaSen University", link: "", imageUrl: "hoasenuniversity.svg"}
    
