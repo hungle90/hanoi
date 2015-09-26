@@ -8,5 +8,6 @@
   group: "Co-organizers"
   elements: 
     - {name: "VTC Academy", description: "Hoc vien dao tao VTC", link: "http://vtcacademy.edu.vn", imageUrl: "vtc.svg"}
-    - {name: "HoaSen University", description: "HoaSen University", link: "", imageUrl: "hoasenuniversity.svg"}
+    - {name: "SaiGon Tourane Hotel", description: "SaiGon Tourane Hotel", link: "http://www.saigontourane.com.vn/", imageUrl: "hotel.svg"}
+    - {name: "HoaSen University", description: "HoaSen University", link: "http://www.hoasen.edu.vn/vi/", imageUrl: "hoasenuniversity.svg"}
    
