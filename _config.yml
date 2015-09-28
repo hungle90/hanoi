@@ -50,9 +50,9 @@ navigationLinks:
 
 
 bottomNavigationLinks:
- - {link: "https://bit.ly/gdgdevfest2015", text: "Đăng ký tại đây"}
+ - {link: "https://bit.ly/gdgdevfestmientrung2015", text: "Đăng ký tại đây"}
 rightNavigationButtons:
- - {link: "https://bit.ly/gdgdevfest2015", text: "Đăng ký tại đây"}
+ - {link: "https://bit.ly/gdgdevfestmientrung2015", text: "Đăng ký tại đây"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -91,20 +91,20 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Hanoi"
-eventLocationName: "VTC Academy"
+locationBlockTitle: "Da Nang"
+eventLocationName: "SaiGonTuor Ane Hotel"
 eventLocationLink: "http://devfest.vn"
-eventStreetAddress: "VTC Online building, No 18th, Tam Trinh, Hoang Mai"
-eventAddressLocality: "Hanoi"
+eventStreetAddress: "SaiGonTour Ane Hotel, No 5th, Dong Da st, Da Nang"
+eventAddressLocality: "Da Nang"
 eventAddressLocalityRegion: ""
-eventPostalCode: "100000"
+eventPostalCode: "550000"
 eventAddressCountry: "Vietnam"
-eventStartTime: "2015-09-27T13:30"
-eventDoorTime: "13:00"
-eventEndTime: "2015-09-25T17:00"
-eventPlaceCoordinates: "20.99540, 105.86202"
-mapCenterCoordinates: "20.99540, 105.86202"
-mapMobileCenterCoordinates: "20.99540, 105.86202"
+eventStartTime: "2015-09-27T18:00"
+eventDoorTime: "18:00"
+eventEndTime: "2015-09-25T21:30"
+eventPlaceCoordinates: "16.08293, 108.21962"
+mapCenterCoordinates: "16.08293, 108.21962"
+mapMobileCenterCoordinates: "16.08293, 108.21962"
 # # Location Block
 # locationBlockTitle: "Danang"
 # eventLocationName: "VTC Academy"
@@ -177,6 +177,8 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2015-09-02T10:00"
   validThrough: "2015-09-27T23:59"
+  soldOut: true
+  soldOutText: "Closed"
  -
   name: "DevFest Da Nang"
   price: "10/2015"
