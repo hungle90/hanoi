@@ -27,3 +27,48 @@
         endTime: "16:20",
         sessionIds: [004,005,006,008]
     }
+- 
+  date: "2015-10-02"
+  dateReadable: "Da Nang - 02/10/2015"
+  tracks: 
+    - {title: "DevFest Da Nang 2015", color: "#90be4e"}
+   
+  timeslots:
+    - {
+        startTime: "18:00",
+        endTime: "18:30",
+        sessionIds: [009]
+    }
+    - {
+        startTime: "18:30",
+        endTime: "19:00",
+        sessionIds: [010]
+    }
+    - {
+        startTime: "19:00",
+        endTime: "19:30",
+        sessionIds: [011]
+    }
+    - {
+        startTime: "19:30",
+        endTime: "20:00",
+        sessionIds: [012]
+    }
+    - {
+        startTime: "20:00",
+        endTime: "20:15",
+        sessionIds: [307]
+    }
+
+    - {
+        startTime: "20:15",
+        endTime: "21:00",
+        sessionIds: [013]
+    }
+    - {
+        startTime: "21:00",
+        endTime: "21:15",
+        sessionIds: [014]
+    }
+
+

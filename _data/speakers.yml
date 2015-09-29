@@ -86,3 +86,50 @@
   social: 
     - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
+- 
+  id: 10
+  name: "Le Huynh "
+  surname: "Kim Ngan"
+  company: "GDG Vietnam"
+  title: "Manager"
+  bio: "Ngan is a dedicated person with a big passion for startups and has a deep insight about the Vietnam's startup eco-system, market and startup people. She is Founder of Action.vn which is the leading tech news in Vietnam, Co-founder of Google Developer Group Viet Nam and trip planner and connector at Triip.me."
+  thumbnailUrl: lehuynhkimngan.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+- 
+  id: 11
+  name: "Le "
+  surname: "Loc"
+  company: "Mobioneer"
+  title: "CEO"
+  bio: "He is a lecture of Da Nang University of Science and Technology. He established Mobioneer company which is developing mobile applications. He is a passionate person in game development and will share you his game story named AmIClever."
+  thumbnailUrl: leloc.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+- 
+  id: 12
+  name: "Le Van"
+  surname: "Khanh"
+  company: "Gameloft Da Nang"
+  title: "Leader of Android HD Division"
+  bio: "He is a Leader of Android HD Division, Gameloft Da Nang. He has more than 5 years experience in game development and 3 years management experience in game industry. The topic he will share with you is “The professional game production process”. You will be introduced the professional game production process, the challengers and the key notes to be successful. How to raise your game to the top rating. How to keep your game interesting and get more profit?"
+  thumbnailUrl: levankhanh.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+- 
+  id: 13
+  name: "Nhi"
+  surname: "Nguyen"
+  company: "GDG Mien Trung"
+  title: "Manager of GDG Mien Trung"
+  bio: ""
+  thumbnailUrl: nhinguyen.jpg
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
