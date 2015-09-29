@@ -1,7 +1,7 @@
 
 - 
   id: 0
-  name: "Ba"
+  name: "Nguyen Ba"
   surname: "Ngoc"
   company: "GDG Hanoi"
   title: "Founder & Manager of GDG Hanoi"
@@ -42,8 +42,8 @@
     - {name: "facebook", link: "https://www.facebook.com/ngansau?fref=ts"}
 - 
   id: 4
-  name: "Nhi"
-  surname: "Nguyen"
+  name: "Nguyen Phuong"
+  surname: "Nhi"
   company: "GDG Mien Trung"
   title: "Founder & Manager of GDG Mien Trung"
   bio: ""

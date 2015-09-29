@@ -124,8 +124,8 @@
     - {name: "twitter", link: ""}
 - 
   id: 13
-  name: "Nhi"
-  surname: "Nguyen"
+  name: "Nguyen"
+  surname: "Nhi"
   company: "GDG Mien Trung"
   title: "Manager of GDG Mien Trung"
   bio: ""
@@ -173,9 +173,9 @@
   id: 17
   name: "Nguyen Vinh"
   surname: "Tuong"
-  company: ""
-  title: ""
-  bio: ""
+  company: "Gameloft"
+  title: "Game Designer "
+  bio: "He said that: 'Game là một hành trình, bạn có thể chơi đi chơi lại và chỉ thật sự thất bại khi bạn từ bỏ'. Một số dự án game đã tham gia porting tại Gameloft: Asphalt 8, Tin Tin, Lost Planet, Solitaire. "
   thumbnailUrl: nguyenvinhtuong.jpg
 
   social: 
