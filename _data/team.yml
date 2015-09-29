@@ -1,60 +1,56 @@
+
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Ba"
+  surname: "Ngoc"
+  company: "GDG Hanoi"
+  title: "Founder & Manager of GDG Hanoi"
+  thumbnailUrl: bangoc.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: ""}
+    - {name: "facebook", link: "https://www.facebook.com/ngoc.possible?fref=ts"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Le Thanh"
+  surname: "Hung"
+  company: "GDG Hanoi"
+  title: "Co-Founder & Manager of GDG Hanoi"
+  thumbnailUrl: lethanhhung.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: ""}
+    - {name: "facebook", link: "https://www.facebook.com/hunglt90"}
+    - {name: "github", link: ""}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Le Huynh "
+  surname: "Kim Ngan"
+  company: "GDG Vietnam"
+  title: "Co-Founder & Manager of GDG Vietnam"
+  bio: "Ngan is a dedicated person with a big passion for startups and has a deep insight about the Vietnam's startup eco-system, market and startup people. She is Founder of Action.vn which is the leading tech news in Vietnam, Co-founder of Google Developer Group Viet Nam and trip planner and connector at Triip.me."
+  thumbnailUrl: lehuynhkimngan.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: ""}
+    - {name: "facebook", link: "https://www.facebook.com/ngansau?fref=ts"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  name: "Nhi"
+  surname: "Nguyen"
+  company: "GDG Mien Trung"
+  title: "Founder & Manager of GDG Mien Trung"
+  bio: ""
+  thumbnailUrl: nhinguyen.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: ""}
+    - {name: "facebook", link: "https://www.facebook.com/pnnwt?fref=ts"}

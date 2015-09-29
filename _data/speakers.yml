@@ -103,7 +103,7 @@
   name: "Le "
   surname: "Loc"
   company: "Mobioneer"
-  title: "CEO"
+  title: "Founder"
   bio: "He is a lecture of Da Nang University of Science and Technology. He established Mobioneer company which is developing mobile applications. He is a passionate person in game development and will share you his game story named AmIClever."
   thumbnailUrl: leloc.jpg
   rockstar: true
@@ -130,6 +130,54 @@
   title: "Manager of GDG Mien Trung"
   bio: ""
   thumbnailUrl: nhinguyen.jpg
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+- 
+  id: 14
+  name: "Fasai "
+  surname: "Pongpitaksopon"
+  company: "Google"
+  title: ""
+  bio: ""
+  thumbnailUrl: fasai.jpg
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "https://www.google.com/"}
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+- 
+  id: 15
+  name: "Nguyen Hoang"
+  surname: "Chuong"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: nguyenhoangchuong.jpg
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+- 
+  id: 16
+  name: "Quoc"
+  surname: "Khanh"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: quockhanh.jpg
+
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+- 
+  id: 17
+  name: "Nguyen Vinh"
+  surname: "Tuong"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: nguyenvinhtuong.jpg
+
   social: 
     - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}

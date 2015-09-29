@@ -55,7 +55,7 @@
   language: vi
   complexity: "Intermediate"
 - id: 006
-  title: "Q&A(50')"
+  title: "Q&A"
   description: ""
   speakers: [4]
   language: vi
@@ -73,13 +73,13 @@
   language: vi
   complexity: ""
 - id: 009
-  title: "Checkin, Gifts"
+  title: "Checkin-Networking"
   description: ""
   speakers: []
   language: vi
   complexity: ""
 - id: 010
-  title: "Opening "
+  title: "Welcome greeting from GDG"
   description: ""
   speakers: [10]
   language: vi
@@ -103,9 +103,38 @@
   language: 
   complexity: ""
 - id: 014
-  title: "Closing"
+  title: "End of event"
   description: ""
   speakers: []
   language: 
   complexity: ""
-
+- id: 015
+  title: "Smarter Monetization with Google AdMob."
+  description: ""
+  speakers: [14]
+  language: en
+  complexity: ""
+- id: 016
+  title: "Player's mind: skill - challenge - flow - interest curves"
+  description: ""
+  speakers: [17,4]
+  language: 
+  complexity: ""
+- id: 017
+  title: "How to build Android ROM from source"
+  description: ""
+  speakers: [15]
+  language: 
+  complexity: ""
+- id: 018
+  title: "VR Experiences"
+  description: ""
+  speakers: [16]
+  language: 
+  complexity: ""
+- id: 019
+  title: "Q&A"
+  description: ""
+  speakers: []
+  language: 
+  complexity: ""
