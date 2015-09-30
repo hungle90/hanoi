@@ -93,9 +93,9 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Da Nang"
-eventLocationName: "SaiGonTuor Ane Hotel"
+eventLocationName: "Saigon Tuorane Hotel"
 eventLocationLink: "http://devfest.vn"
-eventStreetAddress: "SaiGonTour Ane Hotel, No 5th, Dong Da st, Da Nang"
+eventStreetAddress: "Saigon Tourane Hotel, No 5th, Dong Da st, Da Nang"
 eventAddressLocality: "Da Nang"
 eventAddressLocalityRegion: ""
 eventPostalCode: "550000"
@@ -186,7 +186,7 @@ ticketsOffers:
   priceCurrency: ""
   ticketsNumber: ""
   ribbon: ""
-  additionalInfo: "SaiGonTour Ane Hotel, No 5th, Dong Da st, Da Nang"
+  additionalInfo: "Saigon Tourane Hotel, No 5th, Dong Da st, Da Nang"
   featured: true
   buyButtonLink: "https://bit.ly/gdgdevfestmientrung2015"
   buyButtonText: "Registration"
