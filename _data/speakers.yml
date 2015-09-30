@@ -122,17 +122,7 @@
   social: 
     - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
-- 
-  id: 13
-  name: "Nguyen"
-  surname: "Nhi"
-  company: "GDG Mien Trung"
-  title: "Manager of GDG Mien Trung"
-  bio: ""
-  thumbnailUrl: nhinguyen.jpg
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
+
 - 
   id: 14
   name: "Fasai "
