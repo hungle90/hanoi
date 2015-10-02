@@ -54,3 +54,17 @@
   social: 
     - {name: "google-plus", link: ""}
     - {name: "facebook", link: "https://www.facebook.com/pnnwt?fref=ts"}
+-
+  id: 5
+  name: "Tran Huynh"
+  surname: "Tan Vu"
+  company: "GDG Vietnam"
+  title: "Event Coordinator"
+  bio: ""
+  thumbnailUrl: vutran.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "facebook", link: "https://www.facebook.com/tanvu07"}
