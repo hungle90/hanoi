@@ -26,8 +26,23 @@
     - {name: "google-plus", link: ""}
     - {name: "facebook", link: "https://www.facebook.com/hunglt90"}
     - {name: "github", link: ""}
-- 
+
+-
   id: 2
+  name: "George"
+  surname: "Nguyen"
+  company: "GDG Vietnam"
+  title: "Founder & Manager of GDG Vietnam"
+  bio: ""
+  thumbnailUrl: george.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "facebook", link: "https://www.facebook.com/george.nguyen79"}   
+- 
+  id: 3
   name: "Le Huynh "
   surname: "Kim Ngan"
   company: "GDG Vietnam"
